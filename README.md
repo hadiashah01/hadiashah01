@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hadia
 
-🌱 Currently learning programming fundamentals  
+🌱 I am currently learning HTML and building my basics.  
 💻 Exploring Git, GitHub, and VS Code  
 
 ## About Me
