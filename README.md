@@ -14,4 +14,4 @@ I believe clarity comes with practice and time.
 
 ## Contact
 - GitHub: https://github.com/hadiashah01
-- LinkedIn:https://www.linkedin.com/in/hadia-shahjahan-38a5aa32a
+- LinkedIn:https://www.linkedin.com/in/hadia-shahjahan
