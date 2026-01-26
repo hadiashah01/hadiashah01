@@ -19,7 +19,9 @@ I am documenting my learning journey and practicing regularly by creating small 
 - Writing clean and simple code in **VS Code**
 
 ## Learning Journey
-I have started documenting what I learn each day/week in a separate file.
+I have started documenting what I learn each day/week in a separate file.    
+👉 **My learning log:**  
+[View my journey here](journey.md)
 
 ## Contact
 - GitHub: https://github.com/hadiashah01
