@@ -8,3 +8,9 @@
 - Practicing CSS Flexbox more
 - Improving layout skills
 - Working on small HTML & CSS practice projects
+
+## Learning Repositories
+You can find my learning repositories here:
+- [HTML Learning](https://github.com/hadiashah01/learn-HTML)
+- [HTML & CSS Learning](https://github.com/hadiashah01/learn-CSS)  
+- [CSS Flexbox Learning](https://github.com/hadiashah01/learn-CSS-Flexbox)
