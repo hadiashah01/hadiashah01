@@ -1,16 +1,25 @@
-# Hi 👋, I'm Hadia
-
-🌱 I am currently learning HTML and building my basics.  
-💻 Exploring Git, GitHub, and VS Code  
+# Hi 👋, I'm Hadia 
 
 ## About Me
-- 🧠 I am in my learning phase
-- ✨ Interested in understanding how software works
-- 📚 Learning step by step without rushing
+I am currently learning **Frontend Web Development**.  
+Right now, my main focus is on building a strong foundation using:
 
-## Journey
-Right now, I am focused on building strong basics.  
-I believe clarity comes with practice and time.
+- HTML5  
+- CSS3  
+- Git & GitHub  
+- VS Code  
+- Emmet  
+
+I am documenting my learning journey and practicing regularly by creating small projects and assignments.
+
+## Current Focus
+- Learning **CSS (layout, box model, flexbox, styling)**
+- Improving my understanding of **HTML structure**
+- Using **Git & GitHub** for version control
+- Writing clean and simple code in **VS Code**
+
+## Learning Journey
+I have started documenting what I learn each day/week in a separate file.
 
 ## Contact
 - GitHub: https://github.com/hadiashah01
