@@ -18,6 +18,10 @@ I am documenting my learning journey and practicing regularly by creating small 
 - Using **Git & GitHub** for version control
 - Writing clean and simple code in **VS Code**
 
+> [!NOTE]
+> I will be on a short break until mid-February.  
+> I’ll resume updates and learning progress after that.
+
 ## Learning Journey
 I have started documenting what I learn each day/week in a separate file.    
 👉 **My learning log:**  
