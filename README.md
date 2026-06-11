@@ -1,22 +1,26 @@
 # Hi 👋, I'm Hadia 
 
 ## About Me
-I am a **Frontend Web Development** learner, building a strong foundation in modern web technologies.   
-Right now, my main focus is on building a strong foundation using:
+I'm a Frontend Web Development learner and a BSCS student, focused on building strong fundamentals through hands-on projects and UI cloning challenges.
+
+I enjoy recreating real-world websites, experimenting with layouts, and improving my frontend development skills by building projects from scratch.
 
 - **HTML5**  
 - **CSS3**  
 - **Git & GitHub**  
 - **VS Code**  
-- **Emmet**  
+- **Emmet**
+- **JavaScript (ES6+ Fundamentals)**
+- **Tailwind CSS**
 
 I am documenting my learning journey and practicing regularly by creating small projects and assignments.
 
 ## Current Focus
-- Practicing **CSS: layout, box model, Flexbox, styling**
+- JavaScript fundamentals and **DOM manipulation**
+- Practicing **CSS: layout, box model, Flexbox, styling** & advanced CSS techniques
 - Improving my understanding of **HTML structure**
 - Using **Git & GitHub** for version control
-- Writing clean and simple code in **VS Code**
+- Accessibility best practices & modern Frontend Workflows
 
 
 ## Learning Journey
