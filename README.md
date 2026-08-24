@@ -34,6 +34,8 @@ A responsive React banking dashboard featuring account management, interactive t
 - Reusable React components
 - Responsive desktop and mobile interface
 - Deployed with GitHub Pages
+  
+[View repository](https://github.com/hadiashah01/bank-account-manager)  
 
 **Tech:** React · Vite · JavaScript · CSS
 
@@ -47,7 +49,9 @@ A premium restaurant website designed around a polished digital presence and res
 - Tailwind CSS implementation
 - Business-oriented sections and user experience
 
-**Tech:** HTML · Tailwind CSS · JavaScript
+[View repository](https://github.com/hadiashah01/the-kitchen-garden)  
+
+**Tech:** HTML · Tailwind CSS · JavaScript  
 
 ### User Directory
 
@@ -60,7 +64,10 @@ A responsive web interface that retrieves user data from an external API and pre
 - Responsive interface
 - URL-based navigation
 
-**Tech:** HTML · CSS · Bootstrap · JavaScript · REST API
+[View repository](https://github.com/hadiashah01/user-directory)  
+
+**Tech:** HTML · CSS · Bootstrap · JavaScript · REST API  
+
 
 ### Static-to-React
 
@@ -71,7 +78,9 @@ A responsive website interface rebuilt as a React application using reusable com
 - Responsive layouts
 - Reusable interface elements
 
-**Tech:** React · Vite · JavaScript · CSS
+[View repository](https://github.com/hadiashah01/static-to-react)  
+
+**Tech:** React · Vite · JavaScript · CSS  
 
 ## Technical SEO
 
