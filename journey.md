@@ -1,103 +1,76 @@
-# Selected Work & Development
+# My Journey
 
-A curated record of the projects, capabilities, and technical milestones behind my frontend development work.
+## A little more with every project.
 
-This page traces the progression from structured HTML and responsive interfaces to interactive JavaScript, React applications, API-driven experiences, and business-focused web projects.
+Every project has taught me something different. Here's a look at what I've been building lately — and what each step added to the way I work.
 
-## Responsive Frontend Foundations
+---
 
-Built structured and responsive web interfaces using semantic HTML5, modern CSS, Flexbox, Grid, media queries, and utility-first styling.
+### Aaira Khan Salon & Studio
+*Business websites · Next.js · Responsive design*
 
-### Selected Projects
+Exploring how design, content, and functionality come together to represent a business online.
 
-* [HTML](https://github.com/hadiashah01/learn-HTML) — Structured HTML5 implementations using semantic markup.
-* [Resume Clone](https://github.com/hadiashah01/resume-clone) — Recreated a resume interface from a visual reference using semantic HTML5 and CSS3.
-* [Flex Grid Playground](https://github.com/hadiashah01/flex-grid-playground) — Responsive layout implementation using Flexbox, CSS Grid, and Tailwind CSS.
-* [Winter World Lahore Clone](https://github.com/hadiashah01/winterworld-lahore-clone) — Responsive recreation of a real-world website interface.
+**My focus:** Business presentation, responsive layouts, and technical SEO.
 
-## Interactive Web Applications
+[View live project ↗](https://aaira-khan-salon.vercel.app/)
 
-Built browser-based interfaces with JavaScript, dynamic content, user interactions, and external API data.
+---
 
-### BBC News Homepage
+### Fast & Furious Cafe
+*Restaurant website · Next.js · Tailwind CSS*
 
-Built a responsive news interface that fetches and renders dynamic news content from an external API.
+A different business, a different set of needs. This project pushed me to think about how visitors find menus, explore deals, and access essential information.
 
-**Built with:** HTML · CSS · JavaScript · REST API
+**My focus:** Content organization, navigation, and responsive experiences.
 
-[View repository](https://github.com/hadiashah01/bbc-news-homepage-clone)
+[View live project ↗](https://fast-and-furious-cafe.vercel.app/)
 
-### User Directory
+---
 
-Built a responsive directory that retrieves user data from an external API and provides dynamic profile views.
+**[Earlier in my journey ↓](#earlier-chapters)**
 
-**Built with:** HTML · CSS · Bootstrap · JavaScript · REST API
+---
 
-[View repository](https://github.com/hadiashah01/user-directory)
+## Earlier chapters
 
-## React Applications
+### LearnHub
+*Next.js · Application structure*
 
-Moved from static interfaces to component-based React applications with reusable UI, state-driven interactions, and dynamic content.
+Exploring how multiple pages and routes work together, including loading, error, and not-found states.
 
-### Static-to-React
+**What clicked:** The experience doesn't stop at the successful page load.
 
-Converted a static website interface into a responsive React application using reusable components.
+[View live project ↗](https://learnhub-two-kohl.vercel.app/)
 
-**Built with:** React · Vite · JavaScript · CSS
+### Bank Account Manager
+*React · State management*
 
-[View repository](https://github.com/hadiashah01/static-to-react)
+One of my explorations into interactive applications — handling account operations, balance updates, and transaction history.
 
-### React Components
+**What clicked:** Understanding how state connects the entire interface.
 
-Built a collection of reusable React UI components with props, component-based structure, and responsive styling.
+[View live project ↗](https://hadiashah01.github.io/bank-account-manager/)
 
-**Built with:** React · Vite · JavaScript · CSS
+---
 
-[View repository](https://github.com/hadiashah01/react-components)
+### Where it began
 
-### Eligibility Checker
+Before React and larger projects, there were smaller experiments with HTML, CSS, and JavaScript.
 
-Built an interactive React application that processes user input and dynamically determines eligibility status.
+Simple pages, layout practice, styling experiments, and little interactions. They might not be the most polished things I've built, but they're part of how I got here.
 
-**Built with:** React · Vite · JavaScript
+**Some early work:**
 
-[View repository](https://github.com/hadiashah01/eligibility-checker-react)
+- [Flexbox & Grid Playground ↗](https://github.com/hadiashah01/flex-grid-playground)
+- [BBC News Homepage Clone ↗](https://github.com/hadiashah01/bbc-news-homepage-clone)
 
-## Business-Focused Web Projects
+You can also [browse my GitHub repositories](https://github.com/hadiashah01?tab=repositories) to explore more of my earlier work.
 
-### The Kitchen Garden
+Looking back, it's interesting to see how those early experiments eventually led to the projects I build today.
 
-Designed a premium restaurant website to create a polished digital presence for a hospitality business.
+---
 
-The project focuses on visual presentation, responsive layouts, brand-focused sections, and a refined user experience.
+**Still building. Still refining.**
 
-**Built with:** HTML · Tailwind CSS · JavaScript
-
-[View repository](https://github.com/hadiashah01/the-kitchen-garden)
-
-### Banking Dashboard & Quick Transfer System
-
-Built and deployed a responsive React banking dashboard with interactive account operations.
-
-The application includes account selection, credit and debit functionality, dynamic balance updates, transaction history, and a reusable Quick Transfer interface.
-
-**Built with:** React · Vite · JavaScript · CSS
-
-[View repository](https://github.com/hadiashah01/bank-account-manager)
-
-## Current Focus
-
-My current work focuses on building responsive, functional, and SEO-friendly frontend experiences for businesses and real-world web applications.
-
-## Additional Projects
-
-Additional repositories document earlier frontend implementations, UI recreations, and layout-focused projects:
-
-* [WhatsApp Business Platform Clone](https://github.com/hadiashah01/wa-business-platform-clone)
-* [WhatsApp Business Clone — Tailwind CSS](https://github.com/hadiashah01/whatsapp-business-clone-tailwind)
-* [Clone VU Gallery](https://github.com/hadiashah01/clone-VU-gallery)
-* [Yarn Classic Mobile Clone](https://github.com/hadiashah01/yarn-classic-mobile-clone)
-* [MicroSlush Layout Practice](https://github.com/hadiashah01/microslush-layout-practice)
-* [Keyboard Box Mover](https://github.com/hadiashah01/keyboard-box-mover)
-* [Learn Git & GitHub](https://github.com/hadiashah01/learn-Git-and-GitHub)
-* [Learn Emmet](https://github.com/hadiashah01/learn-Emmet)
+[Back to profile readme](https://github.com/hadiashah01/hadiashah01) · [Get in touch](https://github.com/hadiashah01/hadiashah01#connect-with-me)
